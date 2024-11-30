@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[332],{7276:(e,n,_)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/",function(){return _(6993)}])},6993:(e,n,_)=>{"use strict";_.r(n),_.d(n,{default:()=>r});var t=_(4848);function r(){return(0,t.jsx)("h1",{children:"Hello, Static Site Generation!"})}}},e=>{var n=n=>e(e.s=n);e.O(0,[636,593,792],()=>n(7276)),_N_E=e.O()}]);
